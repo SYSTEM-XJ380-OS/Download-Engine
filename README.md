@@ -6,7 +6,7 @@
 
 下载效果图
 
-![1](./img/img003.png)
+![1](img/img003.png)
 
 ## 测试下载名单[百度LOGO,亚马逊官网的一个视频，微信32位安装程序]
 
@@ -14,9 +14,9 @@
 
 # 语言
 
-![c](./img/img002.png)
+![c](img/img002.png)
 
-![e](./img/img001.png)
+![e](img/img001.png)
 
 ## 支持语言[中文(简体)，English(US)]!
 
