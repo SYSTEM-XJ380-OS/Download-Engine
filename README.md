@@ -1,4 +1,4 @@
-﻿# For fast download Engine
+# For fast download Engine
 
 # 为快不破下载引擎
 
